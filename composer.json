@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-0": {
-            "ETNA\\Silex\\Provider\\GuzzleHttp\\HttpRequest": "src"
+            "ETNA\\Silex\\Provider\\HttpRequest": "src"
         }
     },
     "extra": {

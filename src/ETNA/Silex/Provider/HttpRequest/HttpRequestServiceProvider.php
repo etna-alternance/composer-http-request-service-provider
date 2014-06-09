@@ -1,6 +1,6 @@
 <?php
 
-namespace ETNA\Silex\Provider\Guzzle;
+namespace ETNA\Silex\Provider\HttpRequest;
 
 use GuzzleHttp\Client as Client;
 use Silex\Application;
