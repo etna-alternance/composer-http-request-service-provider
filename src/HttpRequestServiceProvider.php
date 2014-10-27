@@ -14,17 +14,19 @@ use Silex\ServiceProviderInterface;
 class HttpRequestServiceProvider implements ServiceProviderInterface
 {
     /**
-    * @inherit
-    * {@inherit}
-    * {@inheritdoc}
-    */
-    public function boot(Application $app) { }
+     * @inherit
+     * {@inherit}
+     * {@inheritdoc}
+     */
+    public function boot(Application $app)
+    {
+    }
 
     /**
-    * @inherit
-    * {@inherit}
-    * {@inheritdoc}
-    */
+     * @inherit
+     * {@inherit}
+     * {@inheritdoc}
+     */
     public function register(Application $app)
     {
         $app["http"] = $app->share(
