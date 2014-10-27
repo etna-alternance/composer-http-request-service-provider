@@ -15,8 +15,6 @@
         "silex/silex": "1.x",
         "guzzlehttp/guzzle": "4.x"
     },
-    "require-dev": {
-    },
     "config": {
         "bin-dir": "bin"
     },
