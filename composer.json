@@ -13,7 +13,7 @@
     "require": {
         "php": ">=5.5",
         "silex/silex": "1.x",
-        "guzzlehttp/guzzle": "4.x"
+        "guzzlehttp/guzzle": "5.x"
     },
     "config": {
         "bin-dir": "bin"
